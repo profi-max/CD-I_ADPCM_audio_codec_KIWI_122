@@ -7,3 +7,7 @@ Read kiwi122_voice_data_frame.pdf
 
 # CD-I ADPCM codec
 Read CD-I Specification.pdf chapter IV
+
+
+https://github.com/user-attachments/assets/5a681681-d855-4289-9e87-70ac3754b500
+
